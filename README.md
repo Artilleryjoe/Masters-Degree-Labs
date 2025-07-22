@@ -1,4 +1,4 @@
-# Cybersecurity Portfolio
+# Master's Degree Labs
 
 ## Maintained by Kristopher McCoy
 **Master's in Cybersecurity – University of Phoenix**  
