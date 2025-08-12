@@ -123,7 +123,7 @@ Labs organized by course and lab number.
 - [Lab 8: Vega web analysis](<./CYB:560-Mscyb-Capstone/Lab8-vega-web-analysis>)
 - [Week 1: Risk Managment](<./CYB:560-Mscyb-Capstone/Week1-Risk-Managment>)
 - [Week 3: Mitigation project](<./CYB:560-Mscyb-Capstone/Week3-Mitigation-project>)
-=======
+
 
 - [Lab 1: Quarantine vulnerable system](<./CMGT:559-Managing-Risk-and-Security-vs-Opportunity/Lab1-Quarantine-vulnerable-system>)
 - [Lab 2: OSSIM](<./CMGT:559-Managing-Risk-and-Security-vs-Opportunity/Lab2-OSSIM>)
