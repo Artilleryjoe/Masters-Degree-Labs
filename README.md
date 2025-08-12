@@ -2,7 +2,7 @@
 
 ## Maintained by Kristopher McCoy
 **Master of Science in Cybersecurity**
-Veteran | Practitioner | Passionate about secure systems, ethical hacking, and defensive strategy
+| Veteran | Practitioner | Passionate about secure systems, ethical hacking, and defensive strategy
 
 ---
 ## Lab Index
