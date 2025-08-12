@@ -76,7 +76,7 @@ Labs organized by course and lab number.
 - **Lab 2:** Testsuite automate testing
 - **Lab 3:** Authentication Authorization defects
 - **Lab 4:** Protect Data rest transit
-- **Lab 5:** Staging ersistant XSS admin
+- **Lab 5:** Staging persistant XSS admin
 
 ### CYB:540: Cryptography
 - **Lab 1:** Using Steganography
