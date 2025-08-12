@@ -35,7 +35,7 @@ Labs organized by course and lab number.
 - **Lab 20:** Configure Snort
 - **Lab 21:** Confirm spoofing wireshark
 - **Lab 22:** Attack website XSS
-- **Lab 23:** Encrypt Decrypt Kelopatra
+- **Lab 23:** Encrypt Decrypt Kleopatra
 - **Lab 24:** AES crypt
 - **Lab 25:** Detect rootkit
 - **Lab 26:** Exploit website SQL
