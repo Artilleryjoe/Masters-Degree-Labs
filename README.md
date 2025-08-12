@@ -1,7 +1,7 @@
-# Master of Science in Cybersecurity – University of Phoenix Labs
+# Master of Science in Cybersecurity
 
 ## Maintained by Kristopher McCoy
-**Master of Science in Cybersecurity – University of Phoenix Labs**
+**Master of Science in Cybersecurity**
 Veteran | Practitioner | Passionate about secure systems, ethical hacking, and defensive strategy
 
 ---
