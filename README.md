@@ -50,7 +50,7 @@ Labs are organized by course and lab number.
 - [Lab 3: Create VM Install Ubuntu HyperV](<./CYB:510-Cloud-Security/Lab3-Create-VM-Install-Ubuntu-HyperV>)
 - [Lab 4: Configure RAID5](<./CYB:510-Cloud-Security/Lab4-Configure-RAID5>)
 - [Lab 5: SHA generated value](<./CYB:510-Cloud-Security/Lab5-SHA-generated-value>)
-- [Lab 6: DoS attack SYN floo](<./CYB:510-Cloud-Security/Lab6-DoS-attack-SYN-floo>)
+- [Lab 6: DoS attack SYN flood](<./CYB:510-Cloud-Security/Lab6-DoS-attack-SYN-floo>)
 - [Lab 7: SEtoolkit social engineering](<./CYB:510-Cloud-Security/Lab7-SEtoolkit-social-engineering>)
 - [Lab 8: Perform credential brute force](<./CYB:510-Cloud-Security/Lab8-Perform-credential-brute-force>)
 
