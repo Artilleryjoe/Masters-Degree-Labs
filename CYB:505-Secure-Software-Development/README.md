@@ -97,8 +97,6 @@ This project is managed like a secure documentation platform that must remain pr
 
 ### 6. Deployment
 
-- Repository is hosted on GitHub under:
-[https://github.com/Artilleryjoe/Cybersecurity-portfolio](https://github.com/Artilleryjoe/Cybersecurity-portfolio)
 - Portfolio is accessible and shareable via direct link
 - Future-ready for integration with static site generators or PDF export tools
 
